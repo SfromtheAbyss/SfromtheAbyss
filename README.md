@@ -23,7 +23,7 @@
 
 ## 📂 Featured Projects
 
-### [RAWG: Data Pipeline & Video Game Success Prediction](https://github.com/AlexGHerrera/Proyecto-RAWG)  
+### [RAWG: Data Pipeline & Video Game Success Prediction](https://github.com/SfromtheAbyss/Proyecto-RAWG)
 - Built an automated **data pipeline** using **AWS**  
 - Modeled game success with **Python & ML techniques**  
 - Deployed API with **FastAPI** for real-time predictions  
