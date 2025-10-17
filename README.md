@@ -34,6 +34,12 @@
 - Created **visualizations and insights** for data-driven decisions  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-F8766D?style=for-the-badge)
 
+### [API Music - Last.fm](https://github.com/SfromtheAbyss/API_music)
+- Retrieved and analyzed music data using the **Last.fm API**  
+- Conducted **exploratory data analysis (EDA)** on artists, albums, and tracks  
+- Created **visualizations** to show trends and patterns in music listening  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-F8766D?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge)
+
 ---
 
 ## 📫 Contact Me
