@@ -36,12 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Sorrow's GitHub stats](https://github-readme-stats.vercel.app/api?username=SfromtheAbyss&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sforsorrow)  
