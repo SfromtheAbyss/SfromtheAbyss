@@ -38,7 +38,13 @@
 - Built a **Machine Learning pipeline** to predict customer churn in a telecom dataset  
 - Compared **Logistic Regression, Random Forest, and XGBoost** models  
 - Interpreted results using **SHAP values** to identify factors influencing churn  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=for-the-badge) ![SHAP](https://img.shields.io/badge/-SHAP-654EA3?style=for-the-badge)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge) ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=for-the-badge) ![SHAP](https://img.shields.io/badge/-SHAP-654EA3?style=for-the-badge)
+
+### [Movie Sentiment Recommender](https://github.com/SfromtheAbyss/movie-sentiment-recommender)  
+- Recommends movies based on **user sentiment** from reviews or input  
+- Uses **NLP techniques** to detect positive, negative, or neutral moods  
+- Provides **personalized movie suggestions** aligned with user preferences  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge)
 
 ### [API Music - Last.fm](https://github.com/SfromtheAbyss/API_music)
 - Retrieved and analyzed music data using the **Last.fm API**  
